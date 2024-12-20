@@ -1,0 +1,4 @@
+Bu,log dosyasındaki örnek metindir.
+alper
+deneme
+alper d

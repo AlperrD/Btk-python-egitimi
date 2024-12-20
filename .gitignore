@@ -1,0 +1,15 @@
+# Virtual environment klasörünü yoksay
+myenv/
+
+# Pycache dosyalarını yoksay
+__pycache__/
+
+# Çıkış dosyalarını yoksay
+*.pyc
+
+# IDE ile ilgili dosyaları yoksay
+.vscode/
+.idea/
+
+# Log dosyalarını yoksay
+*.log
